@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-    image : abhi414/notes-app:latest
+    image : abhi414/todo-app:latest
     ports :
       - "8000:8000"
